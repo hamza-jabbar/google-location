@@ -1,0 +1,6 @@
+Geocoder    Converts location info (street address, etc) to longitude and latitude information
+
+ACCESS_COARSE_LOCATION  Gets a broad range of devices location
+ACCESS_FINE_LOCATION    Gets a "specific" location of the device
+
+Iterator<Address>   Allows us access each address at a time

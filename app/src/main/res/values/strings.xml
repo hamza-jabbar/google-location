@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoogleLocation</string>
+    <string name="postcode">Post code</string>
+    <string name="long_lat">Longitude Latitude</string>
+    <string name="update_location">Update Location</string>
+    <string name="location_unavailable">Location Unavailable</string>
+    <string name="location_updated">Location updated</string>
+    <string name="turn_location_on">Turn location services on</string>
+</resources>
